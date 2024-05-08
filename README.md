@@ -13,7 +13,7 @@
   - [Webmap](#webmap)
 
    
-# Navigatge to the webmap: [whales.github.io](https://geoanalytics-ca.github.io/whales.github.io/)
+# Navigatge to the webmap: [whales.github.io](https://github.com/SIMBA-Arctus/whales.github.io/)
 
 Powered by [Folium]() and [STAC]()
 
